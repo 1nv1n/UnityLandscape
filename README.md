@@ -1,6 +1,6 @@
 # UnityLandscape
 
-An open-world, exploration game intended as a precursor to Middle-Earth, built with Unity.
+The landscape for an open-world, exploration game built with Unity.
 
 <p align="center">
  <img src="https://i.imgur.com/VQtPLLT.png" >
